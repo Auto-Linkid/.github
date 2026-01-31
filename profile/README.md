@@ -11,6 +11,9 @@ BasedLink is a Base Mini App that enables content creators to generate high-qual
 Link Smart Contract :
 MockUSDC : https://sepolia.basescan.org/address/0xfd96abdf9acb7cde74d9dac2d469d7717a80ee56
 X402PaymentProcessor : https://sepolia.basescan.org/address/0xba1510fad35f30f3c9ef0dac121fc507305fe413
+Pitch Deck : https://www.canva.com/design/DAG_9c322-Q/f6XiQfXEw_bV4zt0Ak0Crg/view?utm_content=DAG_9c322-Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5365c85a40
+Web live on : https://basedlink.vercel.app/
+Docs : https://docsbasedin.vercel.app/
 
 ### Try It Now
 1. **Visit:** [basedlink.vercel.app](https://basedlink.vercel.app)
