@@ -4,8 +4,8 @@
 
 BasedLink is a Base Mini App that enables content creators to generate high-quality LinkedIn posts using cryptographically verifiable AI, powered by onchain payments on Base L2.
 Link Smart Contract :
-https://sepolia.basescan.org/address/0xfd96abdf9acb7cde74d9dac2d469d7717a80ee56
-https://sepolia.basescan.org/address/0xba1510fad35f30f3c9ef0dac121fc507305fe413
+MockUSDC : https://sepolia.basescan.org/address/0xfd96abdf9acb7cde74d9dac2d469d7717a80ee56
+X402PaymentProcessor : https://sepolia.basescan.org/address/0xba1510fad35f30f3c9ef0dac121fc507305fe413
 ---
 
 ## Quick Start
