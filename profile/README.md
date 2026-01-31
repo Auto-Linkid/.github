@@ -6,7 +6,7 @@ BasedLink is a Base Mini App that enables content creators to generate high-qual
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Try It Now
 1. **Visit:** [basedlink.vercel.app](https://basedlink.vercel.app)
@@ -29,24 +29,24 @@ npm run dev
 # Open http://localhost:3000
 ```
 
-📚 **Full Setup Guide:** [Development Setup](#development-setup)
+**Full Setup Guide:** [Development Setup](#development-setup)
 
 ---
 
-## 📋 Overview
+## Overview
 
 | Resource | Status |
 |----------|--------|
-| Live Application | [basedlink.vercel.app](https://basedlink.vercel.app) ✅ |
-| Frontend Repository | [Auto-Linkid/Frontend](https://github.com/Auto-Linkid/Frontend) ✅ |
-| AI Backend | [Auto-Linkid/AI-Backend](https://github.com/Auto-Linkid/AI-Backend) ✅ |
-| Smart Contracts | [Auto-Linkid/SmartContract](https://github.com/Auto-Linkid/SmartContract) ✅ |
-| Base Sepolia | Deployed & Verified ✅ |
-| Farcaster Mini App | [Manifest](https://basedlink.vercel.app/.well-known/farcaster.json) ✅ |
+| Live Application | [basedlink.vercel.app](https://basedlink.vercel.app) |
+| Frontend Repository | [Auto-Linkid/Frontend](https://github.com/Auto-Linkid/Frontend) |
+| AI Backend | [Auto-Linkid/AI-Backend](https://github.com/Auto-Linkid/AI-Backend) |
+| Smart Contracts | [Auto-Linkid/SmartContract](https://github.com/Auto-Linkid/SmartContract) |
+| Base Sepolia | Deployed & Verified |
+| Farcaster Mini App | [Manifest](https://basedlink.vercel.app/.well-known/farcaster.json) |
 
 ---
 
-## 💡 The Problem
+## The Problem
 
 <details>
 <summary><b>Quick Summary</b> (click to expand for detailed analysis)</summary>
@@ -82,32 +82,32 @@ LinkedIn creators waste **45-60 minutes per post**, face **low engagement** (<10
 
 ---
 
-## ✨ Our Solution
+## Our Solution
 
 BasedLink solves each problem with targeted innovations:
 
-### 🎮 Gamified AI Wizard
+### Gamified AI Wizard
 **Solves: Writer's Block**
 - Structured 6-step process breaks creation into bite-sized tasks
 - AI generates 3 options for each component (hook, body, CTA)
 - Card-based selection reduces decision paralysis
 - **Result: 96% time savings** (60 min → 2 min)
 
-### 🎯 Engagement Optimization
+### Engagement Optimization
 **Solves: Low Quality & Reach**
 - AI trained on viral LinkedIn patterns
 - 3 tiers: Basic ($0.05), Pro ($0.15), Premium ($0.30)
 - Built-in hooks, storytelling, CTAs best practices
 - **Result: 150-300% engagement increase**
 
-### 🔐 Verifiable AI (Eigen AI TEE)
+### Verifiable AI (Eigen AI TEE)
 **Solves: Trust Crisis**
 - Cryptographic proof of AI generation
 - Transparent verification badges
 - Immutable onchain provenance
 - **Result: Industry-first verifiable AI content**
 
-### ⚡ Seamless Web3 (Base L2)
+### Seamless Web3 (Base L2)
 **Solves: Onboarding Friction**
 - Coinbase Smart Wallet with biometric auth
 - No seed phrases (passkey-based)
@@ -116,22 +116,22 @@ BasedLink solves each problem with targeted innovations:
 
 ---
 
-## 🆚 Why Not Just Use ChatGPT?
+## Why Not Just Use ChatGPT?
 
 | Feature | ChatGPT | BasedLink |
 |---------|---------|-----------|
-| **LinkedIn Optimization** | ❌ Generic prompts | ✅ Trained on viral patterns |
-| **Proof of Authenticity** | ❌ None | ✅ Eigen AI cryptographic signature |
-| **Pricing Model** | 💳 $20/month | 💰 Pay-per-use (~$0.05-$0.30/post) |
-| **Web3 Native** | ❌ No blockchain | ✅ Base L2 payments & wallet |
-| **Gamified UX** | ❌ Blank prompt | ✅ Guided wizard with options |
-| **Engagement Focus** | ❌ General writing | ✅ LinkedIn algorithm optimized |
+| **LinkedIn Optimization** |  Generic prompts |  Trained on viral patterns |
+| **Proof of Authenticity** |  None |  Eigen AI cryptographic signature |
+| **Pricing Model** |  $20/month |  Pay-per-use (~$0.05-$0.30/post) |
+| **Web3 Native** |  No blockchain |  Base L2 payments & wallet |
+| **Gamified UX** |  Blank prompt |  Guided wizard with options |
+| **Engagement Focus** |  General writing |  LinkedIn algorithm optimized |
 
 **Key Differentiator:** BasedLink isn't just an AI tool—it's a **verifiable content creation system** with cryptographic proof, blockchain payments, and LinkedIn-specific optimization.
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -186,7 +186,7 @@ BasedLink solves each problem with targeted innovations:
 
 ---
 
-## 📱 User Journey
+##  User Journey
 
 **Total Time: ~2 Minutes**
 
@@ -227,9 +227,9 @@ BasedLink solves each problem with targeted innovations:
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
-### [📦 Frontend](https://github.com/Auto-Linkid/Frontend)
+###  Frontend](https://github.com/Auto-Linkid/Frontend)
 User interface, wallet integration, Base Mini App
 
 **Key Features:**
@@ -247,7 +247,7 @@ AI inference, payment verification, Eigen AI TEE
 - Content generation endpoints
 - Signature validation system
 
-### [💎 Smart Contracts](https://github.com/Auto-Linkid/SmartContract)
+###  Smart Contracts](https://github.com/Auto-Linkid/SmartContract)
 Payment processing, USDC management
 
 **Key Features:**
@@ -257,7 +257,7 @@ Payment processing, USDC management
 
 ---
 
-## 🛠️ Development Setup
+## Development Setup
 
 ### Prerequisites
 ```bash
@@ -338,7 +338,7 @@ forge script script/Deploy.s.sol --rpc-url base-sepolia
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 ### Validated Results *(Internal testing, 50+ posts, Jan 2026)*
 
@@ -362,7 +362,7 @@ forge script script/Deploy.s.sol --rpc-url base-sepolia
 
 ---
 
-## 🎯 Target Users
+## Target Users
 
 ### Primary
 
@@ -385,33 +385,33 @@ forge script script/Deploy.s.sol --rpc-url base-sepolia
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
-### ✅ Phase 1: Foundation (Q1 2026) - CURRENT
+### Phase 1: Foundation (Q1 2026) - CURRENT
 - Base Sepolia deployment
 - Farcaster Mini App launch
 - Wizard flow + Eigen AI integration
 - Smart Wallet onboarding
 
-### 🔄 Phase 2: Production (Q2 2026)
+### Phase 2: Production (Q2 2026)
 - Base Mainnet deployment
 - Real USDC payments
 - User accounts & generation history
 - Analytics dashboard
 
-### 📋 Phase 3: Expansion (Q3 2026)
+### Phase 3: Expansion (Q3 2026)
 - Indonesian language support
 - Multi-platform (Twitter/X, Medium)
 - Team collaboration
 - Content scheduling
 
-### 📋 Phase 4: Ecosystem (Q4 2026)
+### Phase 4: Ecosystem (Q4 2026)
 - Public API for integrations
 - Creator marketplace for templates
 - Cross-chain support (Optimism, Arbitrum)
 - DAO governance
 
-### 📋 Phase 5: Enterprise (2027)
+### Phase 5: Enterprise (2027)
 - White-label licensing
 - Team management
 - Custom AI model fine-tuning
@@ -419,7 +419,7 @@ forge script script/Deploy.s.sol --rpc-url base-sepolia
 
 ---
 
-## 🌐 Base Ecosystem Integration
+## Base Ecosystem Integration
 
 ### Base L2 Utilization
 ✅ Smart contracts for payments  
@@ -443,7 +443,7 @@ forge script script/Deploy.s.sol --rpc-url base-sepolia
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please check individual repo guidelines:
 
@@ -458,36 +458,35 @@ We welcome contributions! Please check individual repo guidelines:
 - Test coverage for new features
 - Documentation for public APIs
 - Follow existing code style
-
-🔒 **Security Issues:** Contact maintainers directly, not via public issues
+ **Security Issues:** Contact maintainers directly, not via public issues
 
 ---
 
-## 📞 Support & Community
+## Support & Community
 
 ### Quick Links
-- 🌐 **Live App:** [basedlink.vercel.app](https://basedlink.vercel.app)
-- 📱 **Farcaster:** [Manifest](https://basedlink.vercel.app/.well-known/farcaster.json)
-- 💻 **GitHub:** [Auto-Linkid Organization](https://github.com/Auto-Linkid)
+- **Live App:** [basedlink.vercel.app](https://basedlink.vercel.app)
+- **Farcaster:** [Manifest](https://basedlink.vercel.app/.well-known/farcaster.json)
+- **GitHub:** [Auto-Linkid Organization](https://github.com/Auto-Linkid)
 
 ### Get Help
-- 🐛 [Report Bug](https://github.com/Auto-Linkid/Frontend/issues/new?labels=bug&template=bug_report.md)
-- ✨ [Request Feature](https://github.com/Auto-Linkid/Frontend/issues/new?labels=enhancement&template=feature_request.md)
-- 💬 [Farcaster Channel](https://warpcast.com/~/channel/basedlink) *(Coming Soon)*
-- 📧 [Media & Partnerships](https://github.com/Auto-Linkid/Frontend/issues/new?title=[MEDIA]%20or%20[PARTNERSHIP])
+- [Report Bug](https://github.com/Auto-Linkid/Frontend/issues/new?labels=bug&template=bug_report.md)
+- [Request Feature](https://github.com/Auto-Linkid/Frontend/issues/new?labels=enhancement&template=feature_request.md)
+- [Farcaster Channel](https://warpcast.com/~/channel/basedlink) *(Coming Soon)*
+- [Media & Partnerships](https://github.com/Auto-Linkid/Frontend/issues/new?title=[MEDIA]%20or%20[PARTNERSHIP])
 
 ### Share Your Success
 Created great content with BasedLink? Share on LinkedIn and tag us!
 
 ---
 
-## 📄 License
+## License
 
 Individual repository licenses specified in respective LICENSE files. Review before use or contribution.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 **Built for Base Indonesia Hackathon 2025**
 
