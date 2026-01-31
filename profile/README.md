@@ -22,8 +22,9 @@ BasedLink is a Base Mini App that enables content creators to generate high-qual
 - **MockUSDC**: [0xfD96ABdF9acb7Cde74D9DaC2D469d7717A80ee56](https://sepolia.basescan.org/address/0xfd96abdf9acb7cde74d9dac2d469d7717a80ee56)
 - **X402PaymentProcessor**: [0xBA1510faD35f30F3c9ef0Dac121Fc507305FE413](https://sepolia.basescan.org/address/0xba1510fad35f30f3c9ef0dac121fc507305fe413)
 
-### Farcaster Integration
-- **Mini App Manifest**: [basedlink.vercel.app/.well-known/farcaster.json](https://basedlink.vercel.app/.well-known/farcaster.json)
+### Baseapp Integration
+- **Mini App Manifest**: [Check Our Mini Apps on Baseapp]([https://basedlink.vercel.app/.well-known/farcaster.json](https://basedlink.vercel.app/
+https://basedlink.vercel.app/))
 
 ---
 
