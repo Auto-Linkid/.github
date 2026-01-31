@@ -11,6 +11,8 @@ BasedLink is a Base Mini App that enables content creators to generate high-qual
 ### Live Application & Documentation
 - **Live Application**: [basedlink.vercel.app](https://basedlink.vercel.app)
 - **Documentation**: [docsbasedin.vercel.app](https://docsbasedin.vercel.app)
+- **Introduction Video**: [Introduction Here](https://www.youtube.com/watch?v=a_IZJgiL90E)
+- **Demo Video**: [Demo Here](https://youtu.be/gkJydbpUhvw)
 - **Pitch Deck**: [View on Canva](https://www.canva.com/design/DAG_9c322-Q/f6XiQfXEw_bV4zt0Ak0Crg/view?utm_content=DAG_9c322-Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5365c85a40)
 
 ### Repositories
@@ -23,7 +25,7 @@ BasedLink is a Base Mini App that enables content creators to generate high-qual
 - **X402PaymentProcessor**: [0xBA1510faD35f30F3c9ef0Dac121Fc507305FE413](https://sepolia.basescan.org/address/0xba1510fad35f30f3c9ef0dac121fc507305fe413)
 
 ### Baseapp Integration
-- **Mini App Manifest**: [Use on Baseapp](https://basedlink.vercel.app/https://basedlink.vercel.app/)
+- **Mini App Manifest**: [Use on Baseapp](https://basedlink.vercel.app)
 
 ---
 
