@@ -238,7 +238,7 @@ User interface, wallet integration, Base Mini App
 - Payment flow management
 - Farcaster Mini App manifest
 
-### [🤖 AI Backend](https://github.com/Auto-Linkid/AI-Backend)
+### AI Backend](https://github.com/Auto-Linkid/AI-Backend)
 AI inference, payment verification, Eigen AI TEE
 
 **Key Features:**
@@ -422,17 +422,17 @@ forge script script/Deploy.s.sol --rpc-url base-sepolia
 ## Base Ecosystem Integration
 
 ### Base L2 Utilization
-✅ Smart contracts for payments  
-✅ USDC native integration  
-✅ OnchainKit components  
-✅ Sub-cent transaction costs  
-✅ EVM compatibility  
+  Smart contracts for payments  
+  USDC native integration  
+  OnchainKit components  
+  Sub-cent transaction costs  
+  EVM compatibility  
 
 ### Farcaster Integration
-✅ Mini App SDK v2 implementation  
-✅ Direct distribution to 500K+ users  
-✅ Seamless wallet integration  
-✅ Social identity context  
+  Mini App SDK v2 implementation  
+  Direct distribution to 500K+ users  
+  Seamless wallet integration  
+  Social identity context  
 
 ### Developer Resources
 - Open-source reference implementation
